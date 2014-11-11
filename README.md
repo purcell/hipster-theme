@@ -1,6 +1,6 @@
-## Hipster Theme
+# Hipster Theme
 
 :) Fun colors
-# Clojure #Python #Html #Javascript
+## Clojure #Python #Html #Javascript
 
-![Example](http://xzerocode.github.com/hipster-theme/screenshot.png)
+![Example](https://raw.githubusercontent.com/xzerocode/hipster-theme/master/Screenshot.png)
