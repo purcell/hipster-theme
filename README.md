@@ -3,4 +3,4 @@
 :) Fun colors
 # Clojure #Python #Html #Javascript
 
-![Example](xzerocode.github.com/hipster-theme/screenshot.png)
+![Example](http://xzerocode.github.com/hipster-theme/screenshot.png)
