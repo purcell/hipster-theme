@@ -6,7 +6,7 @@
    ;; Transparent Emacs
    ;;(set-frame-parameter (selected-frame) 'alpha '(<active> [<inactive>]))
      (set-frame-parameter (selected-frame) 'alpha '(88 70))
-
+```
 
 :) Fun colors
 ## Clojure #Python #Html #Javascript
