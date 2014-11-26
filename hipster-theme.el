@@ -1,8 +1,9 @@
-;;; hipster-theme.el --- A low contrast color theme for Emacs.
+;;; hipster-theme.el --- A low contrast color theme
 
 ;; Author: Luis Angel <redshacker11@gmail.com>
 ;; URL: http://github.com/xzerocode/hispter-theme
 ;; Version: 0.1
+;; Package-Requires: ((emacs "24"))
 
 ;;; Commentary:
 
@@ -1040,6 +1041,5 @@ This requires library `rainbow-mode'.")
 ;; Local Variables:
 ;; no-byte-compile: t
 ;; indent-tabs-mode: nil
-;; eval: (when (require 'rainbow-mode nil t) (rainbow-mode 1))
 ;; End:
 ;;; hipster-theme.el ends here
