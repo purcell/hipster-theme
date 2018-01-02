@@ -13,6 +13,6 @@
 ```
 
 :) Fun colors
-## #Clojure #Python #Html #Javascript
+## #HTML #Clojure #Javascript #Python
 
-![Example](https://raw.githubusercontent.com/xzerocode/hipster-theme/master/Screenshot.png)
+![](https://github.com/purcell/hipster-theme/blob/master/Screenshot.png)
